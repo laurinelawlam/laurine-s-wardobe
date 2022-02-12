@@ -1,0 +1,25 @@
+.menu{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'IBM Plex Sans', serif;
+}
+
+.menu-html:hover{
+	border-top: 5px solid white;
+	background-color: rgba(228, 77, 38, 0.15);
+}
+
+.menu-css:hover{
+	border-top: 5px solid white;
+	background-color: rgba(228, 77, 38, 0.15);
+}
+
+.menu-javascript:hover{
+	border-top: 5px solid white;
+	background-color: rgba(228, 77, 38, 0.15);
+}
+
+.menu-contact:hover{
+	border-top: 5px solid white;
+	background-color: rgba(228, 77, 38, 0.15);
+}
